@@ -1,8 +1,7 @@
----
+
 title: <“My Global Warming Skepticism, for Dummies”: The Basics from Dr. Roy Spencer>
 layout: default
 nav_order: 1
----
 
 In this blog post, climatologist Dr. Roy Spencer summarizes his point of view on the subject of Climate Change while addressing many of the questions he receives on a regular basis. Doctor Spencer does not dispute the existence of global warming but argues that the cause for climate change is not necessarily atmospheric carbon dioxide. While he says he does not have the answer he believes that there is no other existing evidence which he has not taken into account to sway him. There are 19 questions addressed in the article, including “are global temperatures currently rising?”, “is CO2 capable of causing such warming?”, and “Are Humans Responsible for the CO2 Rise?”. The author addresses these questions relatively colloquially, without citing any direct research. Instead, Doctor Spencer draws on an indiscernible mix of his own opinions and bites of his expertise as a climatologist. There is repetitive focus on the IPCC as a monolithic force for biased climate science where researchers are simply following orders or succumbing to pressure either monetary, political, or by peers. 
 Doctor Roy Spencer is a credible meteorologist and has had a good deal of experience not only in research but also working with government agencies like NASA and he states in his bio that he has not performed any services for oil companies. He has written a number of books on the topic of global warming and continues to update this website. It seems that this website is geared towards the public, more specifically, people who believe in the debate of climate change and are looking for popular communication of science which does not evidence anthropogenic climate change. 
